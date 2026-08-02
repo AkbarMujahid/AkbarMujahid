@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://github.com/AkbarMujahid/Neural-Language-Processing">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Neural-Language-Processing&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
