@@ -139,10 +139,6 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/bottom-wave.svg" width="100%" />
-</p>
-
 ---
 
 <div align="center">
@@ -152,3 +148,6 @@
 Thanks for visiting my GitHub profile! Feel free to explore my projects, connect with me, or collaborate on exciting ideas.
 
 </div>
+<p align="center">
+  <img src="assets/bottom-wave.svg" width="100%" />
+</p>
