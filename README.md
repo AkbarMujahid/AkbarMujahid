@@ -1,16 +1,14 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Akbar Mujahid Banner" width="100%">
+</p>
+
 <div align="center">
 
-# 👋 Hi, I'm Akbar Mujahid
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real-world+problems.;Full+Stack+Developer+%7C+Java+Developer;Always+Learning+Something+New"/>
 
-### Computer Engineering Graduate • Full Stack Developer • Java Enthusiast
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Real-World+Applications;Full+Stack+Developer+%7C+Java+Developer;Always+Learning+Something+New"/>
-
-<p>
-  <a href="https://github.com/AkbarMujahid">
-    <img src="https://komarev.com/ghpvc/?username=AkbarMujahid&style=flat-square&color=0e75b6" alt="Profile Views"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=AkbarMujahid&style=flat-square&color=0e75b6" alt="Profile Views"/>
 
 </div>
 
