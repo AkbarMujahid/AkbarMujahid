@@ -41,34 +41,32 @@
 <div align="center">
 
 <a href="https://github.com/AkbarMujahid/ClipFetch">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/Re-Source">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/mcp-rag-chatbot">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/AkbarMujahid/Neural-Language-Processing">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true&v=2"/>
+<a href="https://github.com/AkbarMujahid/VerbaSense">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true"/>
 </a>
-<\div>
+
+</div>
+
 ---
 
 ## 🎮 Contribution Graph
 
 <div align="center">
 
-<p align="center">
-
 <img src="https://raw.githubusercontent.com/AkbarMujahid/AkbarMujahid/output/bomberman-contribution-graph.svg#gh-light-mode-only"/>
 
 <img src="https://raw.githubusercontent.com/AkbarMujahid/AkbarMujahid/output/bomberman-contribution-graph-dark.svg#gh-dark-mode-only"/>
-
-</p>
 
 </div>
 
@@ -142,3 +140,5 @@
 ### ⭐ *Building Software That Solves Real-World Problems*
 
 Thanks for visiting my GitHub profile! Feel free to explore my projects, connect with me, or collaborate on exciting ideas.
+
+</div>
