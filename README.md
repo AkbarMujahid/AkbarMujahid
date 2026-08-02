@@ -41,19 +41,19 @@
 <div align="center">
 
 <a href="https://github.com/AkbarMujahid/ClipFetch">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/Re-Source">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/mcp-rag-chatbot">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/VerbaSense">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 </div>
