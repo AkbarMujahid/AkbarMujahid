@@ -14,9 +14,7 @@
 
 </div>
 
-<p align="center">
-  • • •
-</p>
+---
 
 ## 🚀 About Me
 
@@ -26,9 +24,7 @@
 - 🌱 Currently learning **Java Backend Development**, **Data Structures & Algorithms**, and **Data Analytics**
 - 🎯 Interested in solving real-world problems through technology
 
-<p align="center">
-  • • •
-</p>
+---
 
 ## 💻 Tech Stack
 
@@ -38,9 +34,7 @@
 
 </div>
 
-<p align="center">
-  • • •
-</p>
+---
 
 ## ⭐ Featured Projects
 
@@ -62,9 +56,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true&v=2"/>
 </a>
 
-<p align="center">
-  • • •
-</p>
+---
 
 ## 🎮 Contribution Graph
 
@@ -80,9 +72,7 @@
 
 </div>
 
-<p align="center">
-  • • •
-</p>
+---
 
 ## 📊 GitHub Stats
 
@@ -120,9 +110,7 @@
 
 </div>
 
-<p align="center">
-  • • •
-</p>
+---
 
 ## 🏆 Highlights
 
@@ -131,9 +119,7 @@
 - 🎓 Bachelor of Engineering in Computer Engineering
 - 💻 Passionate about building practical software solutions
 
-<p align="center">
-  • • •
-</p>
+---
 
 ## 🌐 Connect With Me
 
