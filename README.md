@@ -38,62 +38,27 @@
 
 ## ⭐ Featured Projects
 
+## ⭐ Featured Projects
+
 <div align="center">
 
 <a href="https://github.com/AkbarMujahid/ClipFetch">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=transparent&hide_border=true"
-    alt="ClipFetch"
-  />
-</picture>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/Re-Source">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=transparent&hide_border=true"
-    alt="Re-Source"
-  />
-</picture>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/AkbarMujahid/QuizCraft-AI">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=QuizCraft-AI&theme=tokyonight&hide_border=true"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=QuizCraft-AI&theme=transparent&hide_border=true"
-    alt="QuizCraft AI"
-  />
-</picture>
+<a href="https://github.com/AkbarMujahid/mcp-rag-chatbot">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/AkbarMujahid/VerbaSense">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=transparent&hide_border=true"
-    alt="VerbaSense"
-  />
-</picture>
+<a href="https://github.com/AkbarMujahid/ClipFetch">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
-
 ---
 
 ## 🎮 Contribution Graph
