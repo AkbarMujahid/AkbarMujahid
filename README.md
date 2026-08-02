@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%">
+  • • •
 </p>
 
 ## 🚀 About Me
@@ -27,7 +27,7 @@
 - 🎯 Interested in solving real-world problems through technology
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%">
+  • • •
 </p>
 
 ## 💻 Tech Stack
@@ -39,7 +39,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%">
+  • • •
 </p>
 
 ## ⭐ Featured Projects
@@ -62,9 +62,8 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true&v=2"/>
 </a>
 
-</div>
 <p align="center">
-  <img src="assets/divider.svg" width="100%">
+  • • •
 </p>
 
 ## 🎮 Contribution Graph
@@ -82,7 +81,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%">
+  • • •
 </p>
 
 ## 📊 GitHub Stats
@@ -122,7 +121,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%">
+  • • •
 </p>
 
 ## 🏆 Highlights
@@ -133,7 +132,7 @@
 - 💻 Passionate about building practical software solutions
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%">
+  • • •
 </p>
 
 ## 🌐 Connect With Me
