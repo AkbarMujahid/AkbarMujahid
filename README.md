@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/top-wave.svg" width="100%" />
-</p>
-
 <div align="center">
 
 # 👋 Hi, I'm Akbar Mujahid
@@ -146,8 +142,3 @@
 ### ⭐ *Building Software That Solves Real-World Problems*
 
 Thanks for visiting my GitHub profile! Feel free to explore my projects, connect with me, or collaborate on exciting ideas.
-
-</div>
-<p align="center">
-  <img src="assets/bottom-wave.svg" width="100%" />
-</p>
