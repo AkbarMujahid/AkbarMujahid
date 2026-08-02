@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/top-wave.svg" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Akbar Mujahid
@@ -134,6 +138,10 @@
 </a>
 
 </div>
+
+<p align="center">
+  <img src="assets/bottom-wave.svg" width="100%" />
+</p>
 
 ---
 
