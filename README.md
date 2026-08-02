@@ -26,7 +26,9 @@
 - 🌱 Currently learning **Java Backend Development**, **Data Structures & Algorithms**, and **Data Analytics**
 - 🎯 Interested in solving real-world problems through technology
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%">
+</p>
 
 ## 💻 Tech Stack
 
@@ -36,7 +38,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%">
+</p>
 
 ## ⭐ Featured Projects
 
@@ -59,7 +63,9 @@
 </a>
 
 </div>
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%">
+</p>
 
 ## 🎮 Contribution Graph
 
@@ -75,7 +81,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%">
+</p>
 
 ## 📊 GitHub Stats
 
@@ -113,7 +121,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%">
+</p>
 
 ## 🏆 Highlights
 
@@ -122,7 +132,9 @@
 - 🎓 Bachelor of Engineering in Computer Engineering
 - 💻 Passionate about building practical software solutions
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%">
+</p>
 
 ## 🌐 Connect With Me
 
