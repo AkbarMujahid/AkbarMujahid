@@ -39,19 +39,19 @@
 <div align="center">
 
 <a href="https://github.com/AkbarMujahid/ClipFetch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/Re-Source">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/mcp-rag-chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 <a href="https://github.com/AkbarMujahid/VerbaSense">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 </div>
@@ -77,17 +77,17 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=AkbarMujahid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    srcset="https://akbar-github-stats.vercel.app/api?username=AkbarMujahid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkbarMujahid&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://akbar-github-stats.vercel.app/api?username=AkbarMujahid&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarMujahid&layout=compact&theme=tokyonight&hide_border=true"
+    srcset="https://akbar-github-stats.vercel.app/api/top-langs/?username=AkbarMujahid&layout=compact&theme=tokyonight&hide_border=true"
   />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarMujahid&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://akbar-github-stats.vercel.app/api/top-langs/?username=AkbarMujahid&layout=compact&theme=transparent&hide_border=true"/>
 </picture>
 
 </div>
