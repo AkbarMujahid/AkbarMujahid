@@ -38,20 +38,20 @@
 
 <div align="center">
 
+<a href="https://github.com/AkbarMujahid/Euphony">
+<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=Euphony&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+</a>
+
 <a href="https://github.com/AkbarMujahid/ClipFetch">
 <img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=ClipFetch&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
+<a href="https://github.com/AkbarMujahid/Relay">
+<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=Relay&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+</a>
+
 <a href="https://github.com/AkbarMujahid/Re-Source">
 <img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=Re-Source&theme=tokyonight&hide_border=true&cache_seconds=1"/>
-</a>
-
-<a href="https://github.com/AkbarMujahid/mcp-rag-chatbot">
-<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=mcp-rag-chatbot&theme=tokyonight&hide_border=true&cache_seconds=1"/>
-</a>
-
-<a href="https://github.com/AkbarMujahid/VerbaSense">
-<img src="https://akbar-github-stats.vercel.app/api/pin/?username=AkbarMujahid&repo=VerbaSense&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </a>
 
 </div>
